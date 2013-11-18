@@ -1,5 +1,5 @@
 {
-    "name": "jasonlewis/resource-watcher",
+    "name": "lukaswhite/resource-watcher",
     "description": "Simple PHP resource watcher library.",
     "keywords": ["resource", "assets", "laravel"],
     "authors": [
